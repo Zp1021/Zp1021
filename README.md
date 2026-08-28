@@ -18,8 +18,7 @@ github.com/zp1021/space-intel-dashboard
 
 ## Currently
 
-- Studying for the ISC2 Certified in Cybersecurity (CC) exam
-- Security+ and AWS Solutions Architect Associate planned next
+- Refactoring radar tracker to be more dynamic responding to user input instead of hard-coded values
 
 ## Tech I work with
 
